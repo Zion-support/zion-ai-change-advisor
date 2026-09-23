@@ -1,13 +1,13 @@
 # Zion AI Change Advisor
 
-AI change advisory board assistant — risk scoring and impact analysis. Part of the **Zion App Network**.
+AI change advisory assistant — risk scoring, impact analysis and CAB meeting automation.
 
-- 🌐 Live app: https://ziontechgroup.com/zion-ai-change-advisor/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-See [NETWORK.md](NETWORK.md) for the full Zion App Network map with links to all sibling apps.
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full app catalog: https://ziontechgroup.com/apps/
+- 📢 About the network: https://ziontechgroup.com/app-network/
+- 💻 GitHub org: https://github.com/Zion-support
+- ✉️ Contact: commercial@ziontechgroup.com
 
----
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+Related apps: [zion-ai-cab-assistant](https://github.com/Zion-support/zion-ai-cab-assistant) · [zion-ai-release-radar](https://github.com/Zion-support/zion-ai-release-radar) · [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander)
